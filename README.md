@@ -1,4 +1,4 @@
-# UnlayerAssesment
+# Unlayer Email Editor POC
 
 ## Introduction
 This project demonstrates how to easily design and export email templates with an email editor.
